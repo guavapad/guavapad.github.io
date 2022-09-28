@@ -1,0 +1,41 @@
+.wellcome{
+    /* position: absolute; */
+    /* z-index: 99; */
+    /* color: aliceblue; */
+    /* font-size: 120px; */
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+}
+/* .img-home{
+    width: 300px;
+    height: 100px;
+}
+*/
+.img-about{
+    height: 400px;
+    width: auto; 
+
+}
+/*
+.navb{
+    z-index: 99;
+}
+.porto{
+    height: 100%;
+    display: grid; */
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    /* grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+.col-porto{
+    display: flex;
+    justify-content: center;
+}
+.title-porto{
+    margin-bottom: 0;
+}
+.about{
+    height: 800px;
+    display: flex;
+    align-items: center;
+} */
